@@ -1,0 +1,5 @@
+Reg_No.,Name,Bill,Status,Days
+1,a,0,Out,0
+2,a,600,In,2
+3,a c d,0,Out,0
+4,d,300,In,1
